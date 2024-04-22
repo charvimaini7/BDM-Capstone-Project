@@ -11,5 +11,6 @@
 <br> 
 3. Conducted thorough data analysis to identify key business trends, patterns, and insights using MS Excel
 <br> 
+<br> 
 Course Grade Received: A (9/10)
 </div>
